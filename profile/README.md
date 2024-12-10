@@ -9,3 +9,4 @@ Please give a star⭐ to support my work if you like my projects.
 - [datafusion-geo](https://github.com/systemxlabs/datafusion-geo): 给 Datafusion 查询引擎增加 GEO 功能扩展
 - [raft](https://github.com/systemxlabs/raft): Rust 实现 Raft 共识算法
 - [green-threads-in-200-lines-of-rust](https://github.com/systemxlabs/green-threads-in-200-lines-of-rust): 200 行 Rust 代码实现绿色线程/有栈协程
+- [rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm): 一个最小的 Rust 裸机程序以及将 Rust 代码转成 RISC-V 汇编
