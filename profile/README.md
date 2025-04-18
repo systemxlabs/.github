@@ -1,4 +1,4 @@
-Hi👋, I'm a database engineer, currently focusing on [rust🦀](https://github.com/rust-lang/rust) and [datafusion](https://github.com/bevyengine/bevy). 
+Hi👋, I'm a database engineer, currently focusing on [rust🦀](https://github.com/rust-lang/rust) and [datafusion](https://github.com/apache/datafusion). 
 
 Please give a star⭐ to support my work if you like my projects.
 
