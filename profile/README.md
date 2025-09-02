@@ -1,8 +1,6 @@
 Hi👋, I'm a database engineer, currently focusing on [rust🦀](https://github.com/rust-lang/rust) and [datafusion](https://github.com/apache/datafusion). 
 
 Please give a star⭐ to support my work if you like my projects.
-
-Active
 - [datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table): 远程数据库执行 SQL 查询并将结果作为 DataFusion 一张表
 - [derive-with](https://github.com/systemxlabs/derive-with): 一个自动给结构体每个字段生成 with-* 构造器的派生宏
 - [bustubx](https://github.com/systemxlabs/bustubx): 参考 cmu 教学数据库使用 Rust 实现的关系型数据库
