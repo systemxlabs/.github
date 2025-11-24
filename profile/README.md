@@ -4,6 +4,7 @@ Please give a star⭐ to support my work if you like my projects.
 - [datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table): 远程数据库执行 SQL 查询并将结果作为 DataFusion 一张表
 - [indexlake](https://github.com/systemxlabs/indexlake): 支持可扩展索引的数据湖
 - [datafusion-loki](https://github.com/systemxlabs/datafusion-loki): 使用 SQL 查询分析 Loki 中的日志
+- [bb8-tonic](https://github.com/systemxlabs/datafusion-loki): bb8 连接池支持 tonic grpc 连接
 - [derive-with](https://github.com/systemxlabs/derive-with): 一个自动给结构体每个字段生成 with-* 构造器的派生宏
 - [bustubx](https://github.com/systemxlabs/bustubx): 参考 cmu 教学数据库使用 Rust 实现的关系型数据库
 - [green-threads-in-200-lines-of-rust](https://github.com/systemxlabs/green-threads-in-200-lines-of-rust): 200 行 Rust 代码实现绿色线程/有栈协程
