@@ -3,6 +3,7 @@ Hi👋, I'm a database engineer, currently focusing on [rust🦀](https://github
 Please give a star⭐ to support my work if you like my projects.
 - [datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table): 远程数据库执行 SQL 查询并将结果作为 DataFusion 一张表
 - [indexlake](https://github.com/systemxlabs/indexlake): 支持可扩展索引的数据湖
+- [datafusion-dist](https://github.com/systemxlabs/datafusion-dist): 基于 Apache DataFusion 的分布式流式计算库
 - [datafusion-loki](https://github.com/systemxlabs/datafusion-loki): 使用 SQL 查询分析 Loki 中的日志
 - [bb8-tonic](https://github.com/systemxlabs/datafusion-loki): bb8 连接池支持 tonic grpc 连接
 - [derive-with](https://github.com/systemxlabs/derive-with): 一个自动给结构体每个字段生成 with-* 构造器的派生宏
