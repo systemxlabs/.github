@@ -5,7 +5,7 @@ Please give a star⭐ to support my work if you like my projects.
 - [indexlake](https://github.com/systemxlabs/indexlake): 支持可扩展索引的数据湖
 - [datafusion-dist](https://github.com/systemxlabs/datafusion-dist): 基于 Apache DataFusion 的分布式流式计算库
 - [datafusion-loki](https://github.com/systemxlabs/datafusion-loki): 使用 SQL 查询分析 Loki 中的日志
-- [bb8-tonic](https://github.com/systemxlabs/datafusion-loki): bb8 连接池支持 tonic grpc 连接
+- [bb8-tonic](https://github.com/systemxlabs/bb8-tonic): bb8 连接池支持 tonic grpc 连接
 - [derive-with](https://github.com/systemxlabs/derive-with): 一个自动给结构体每个字段生成 with-* 构造器的派生宏
 - [sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql): 支持 flight sql 协议和 arrow 数据格式的 sqllogictest runner
 - [bustubx](https://github.com/systemxlabs/bustubx): 参考 cmu 教学数据库使用 Rust 实现的关系型数据库
