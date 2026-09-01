@@ -13,6 +13,7 @@ Please give a star⭐ to support my work if you like my projects.
 - [rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm): 一个最小的 Rust 裸机程序以及将 Rust 代码转成 RISC-V 汇编
 
 Archived
+- [babata](https://github.com/systemxlabs/babata): 一个探索完全 AI 驱动的 agent harness 的项目
 - [ballista-mvp](https://github.com/systemxlabs/ballista-mvp): 一个最小分布式查询引擎实现，代码裁剪自 [datafusion-ballista](https://github.com/apache/datafusion-ballista)
 - [sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom): 使用 nom 框架编写的 SQL 解析器
 - [datafusion-geo](https://github.com/systemxlabs/datafusion-geo): 给 Datafusion 查询引擎增加 GEO 功能扩展
